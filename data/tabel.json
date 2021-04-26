@@ -1,0 +1,312 @@
+[
+  {
+   "name": "I",
+   "komoditas": "Beras",
+   "periode1": "11.800",
+   "periode2": "11.800",
+   "periode3": "11.800",
+   "periode4": "11.800",
+   "periode5": "11.800",
+   "periode6": "11.800"
+  },
+  {
+   "name": "1",
+   "komoditas": "Beras Kualitas Bawah I (kg)",
+   "periode1": "10.750",
+   "periode2": "10.750",
+   "periode3": "10.750",
+   "periode4": "10.750",
+   "periode5": "10.750",
+   "periode6": "10.750"
+  },
+  {
+   "name": "2",
+   "komoditas": "Beras Kualitas Bawah II (kg)",
+   "periode1": "10.400",
+   "periode2": "10.350",
+   "periode3": "10.400",
+   "periode4": "10.400",
+   "periode5": "10.400",
+   "periode6": "10.400"
+  },
+  {
+   "name": "3",
+   "komoditas": "Beras Kualitas Medium I (kg)",
+   "periode1": "11.850",
+   "periode2": "11.850",
+   "periode3": "11.850",
+   "periode4": "11.850",
+   "periode5": "11.850",
+   "periode6": "11.850"
+  },
+  {
+   "name": "4",
+   "komoditas": "Beras Kualitas Medium II (kg)",
+   "periode1": "11.650",
+   "periode2": "11.650",
+   "periode3": "11.650",
+   "periode4": "11.650",
+   "periode5": "11.650",
+   "periode6": "11.600"
+  },
+  {
+   "name": "5",
+   "komoditas": "Beras Kualitas Super I (kg)",
+   "periode1": "13.050",
+   "periode2": "13.100",
+   "periode3": "13.050",
+   "periode4": "13.050",
+   "periode5": "13.050",
+   "periode6": "13.050"
+  },
+  {
+   "name": "6",
+   "komoditas": "Beras Kualitas Super II (kg)",
+   "periode1": "12.650",
+   "periode2": "12.650",
+   "periode3": "12.650",
+   "periode4": "12.650",
+   "periode5": "12.650",
+   "periode6": "12.650"
+  },
+  {
+   "name": "II",
+   "komoditas": "Daging Ayam",
+   "periode1": "35.300",
+   "periode2": "35.300",
+   "periode3": "35.250",
+   "periode4": "35.300",
+   "periode5": "35.350",
+   "periode6": "35.400"
+  },
+  {
+   "name": "1",
+   "komoditas": "Daging Ayam Ras Segar (kg)",
+   "periode1": "35.300",
+   "periode2": "35.300",
+   "periode3": "35.250",
+   "periode4": "35.300",
+   "periode5": "35.350",
+   "periode6": "35.400"
+  },
+  {
+   "name": "III",
+   "komoditas": "Daging Sapi",
+   "periode1": "118.250",
+   "periode2": "118.250",
+   "periode3": "118.700",
+   "periode4": "118.550",
+   "periode5": "118.500",
+   "periode6": "118.500"
+  },
+  {
+   "name": "1",
+   "komoditas": "Daging Sapi Kualitas 1 (kg)",
+   "periode1": "121.850",
+   "periode2": "121.850",
+   "periode3": "122.300",
+   "periode4": "122.150",
+   "periode5": "122.100",
+   "periode6": "122.100"
+  },
+  {
+   "name": "2",
+   "komoditas": "Daging Sapi Kualitas 2 (kg)",
+   "periode1": "113.050",
+   "periode2": "113.050",
+   "periode3": "113.550",
+   "periode4": "113.400",
+   "periode5": "113.350",
+   "periode6": "113.350"
+  },
+  {
+   "name": "IV",
+   "komoditas": "Telur Ayam",
+   "periode1": "26.050",
+   "periode2": "26.150",
+   "periode3": "26.300",
+   "periode4": "26.300",
+   "periode5": "26.300",
+   "periode6": "26.300"
+  },
+  {
+   "name": "1",
+   "komoditas": "Telur Ayam Ras Segar (kg)",
+   "periode1": "26.050",
+   "periode2": "26.150",
+   "periode3": "26.300",
+   "periode4": "26.300",
+   "periode5": "26.300",
+   "periode6": "26.300"
+  },
+  {
+   "name": "V",
+   "komoditas": "Bawang Merah",
+   "periode1": "38.300",
+   "periode2": "38.450",
+   "periode3": "38.300",
+   "periode4": "38.150",
+   "periode5": "38.100",
+   "periode6": "38.000"
+  },
+  {
+   "name": "1",
+   "komoditas": "Bawang Merah Ukuran Sedang (kg)",
+   "periode1": "38.300",
+   "periode2": "38.450",
+   "periode3": "38.300",
+   "periode4": "38.150",
+   "periode5": "38.100",
+   "periode6": "38.000"
+  },
+  {
+   "name": "VI",
+   "komoditas": "Bawang Putih",
+   "periode1": "28.750",
+   "periode2": "28.750",
+   "periode3": "28.800",
+   "periode4": "28.850",
+   "periode5": "28.850",
+   "periode6": "28.900"
+  },
+  {
+   "name": "1",
+   "komoditas": "Bawang Putih Ukuran Sedang (kg)",
+   "periode1": "28.750",
+   "periode2": "28.750",
+   "periode3": "28.800",
+   "periode4": "28.850",
+   "periode5": "28.850",
+   "periode6": "28.900"
+  },
+  {
+   "name": "VII",
+   "komoditas": "Cabai Merah",
+   "periode1": "41.050",
+   "periode2": "41.150",
+   "periode3": "40.800",
+   "periode4": "40.850",
+   "periode5": "40.750",
+   "periode6": "41.150"
+  },
+  {
+   "name": "1",
+   "komoditas": "Cabai Merah Besar (kg)",
+   "periode1": "42.350",
+   "periode2": "42.550",
+   "periode3": "42.450",
+   "periode4": "42.200",
+   "periode5": "41.950",
+   "periode6": "42.750"
+  },
+  {
+   "name": "2",
+   "komoditas": "Cabai Merah Keriting (kg)",
+   "periode1": "39.500",
+   "periode2": "39.900",
+   "periode3": "39.250",
+   "periode4": "39.450",
+   "periode5": "39.450",
+   "periode6": "39.550"
+  },
+  {
+   "name": "VIII",
+   "komoditas": "Cabai Rawit",
+   "periode1": "36.050",
+   "periode2": "36.150",
+   "periode3": "36.200",
+   "periode4": "36.450",
+   "periode5": "36.750",
+   "periode6": "37.500"
+  },
+  {
+   "name": "1",
+   "komoditas": "Cabai Rawit Hijau (kg)",
+   "periode1": "33.800",
+   "periode2": "33.750",
+   "periode3": "33.550",
+   "periode4": "33.700",
+   "periode5": "33.700",
+   "periode6": "34.050"
+  },
+  {
+   "name": "2",
+   "komoditas": "Cabai Rawit Merah (kg)",
+   "periode1": "38.450",
+   "periode2": "38.800",
+   "periode3": "39.550",
+   "periode4": "39.800",
+   "periode5": "40.350",
+   "periode6": "41.250"
+  },
+  {
+   "name": "IX",
+   "komoditas": "Minyak Goreng",
+   "periode1": "14.350",
+   "periode2": "14.350",
+   "periode3": "14.350",
+   "periode4": "14.350",
+   "periode5": "14.350",
+   "periode6": "14.350"
+  },
+  {
+   "name": "1",
+   "komoditas": "Minyak Goreng Curah (kg)",
+   "periode1": "13.400",
+   "periode2": "13.400",
+   "periode3": "13.400",
+   "periode4": "13.400",
+   "periode5": "13.400",
+   "periode6": "13.450"
+  },
+  {
+   "name": "2",
+   "komoditas": "Minyak Goreng Kemasan Bermerk 1 (kg)",
+   "periode1": "15.000",
+   "periode2": "15.000",
+   "periode3": "15.000",
+   "periode4": "15.000",
+   "periode5": "15.000",
+   "periode6": "15.000"
+  },
+  {
+   "name": "3",
+   "komoditas": "Minyak Goreng Kemasan Bermerk 2 (kg)",
+   "periode1": "14.400",
+   "periode2": "14.400",
+   "periode3": "14.400",
+   "periode4": "14.400",
+   "periode5": "14.400",
+   "periode6": "14.400"
+  },
+  {
+   "name": "X",
+   "komoditas": "Gula Pasir",
+   "periode1": "14.400",
+   "periode2": "14.400",
+   "periode3": "14.400",
+   "periode4": "14.400",
+   "periode5": "14.400",
+   "periode6": "14.400"
+  },
+  {
+   "name": "1",
+   "komoditas": "Gula Pasir Kualitas Premium (kg)",
+   "periode1": "15.900",
+   "periode2": "15.850",
+   "periode3": "15.850",
+   "periode4": "15.850",
+   "periode5": "15.800",
+   "periode6": "15.850"
+  },
+  {
+   "name": "2",
+   "komoditas": "Gula Pasir Lokal (kg)",
+   "periode1": "13.450",
+   "periode2": "13.450",
+   "periode3": "13.450",
+   "periode4": "13.450",
+   "periode5": "13.450",
+   "periode6": "13.450"
+  }
+ ]
